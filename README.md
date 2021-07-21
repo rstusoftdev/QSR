@@ -33,6 +33,9 @@ the duration of the video results according to the recording duration
 ## Download
 
 Download Now For Windows 8 or 10
+
+
+
 Download on [Quick Screen Record GitHub Official](https://github.com/rstusoftdev/QSR/releases) 
 
 
