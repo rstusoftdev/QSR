@@ -15,15 +15,15 @@ Quick Screen Record is The software that can help you record screen quickly.
 
 ## Features
 
-##### 1. User Interface
+#### 1. User Interface
 Coming With Minimalist And Modern Ui
-##### 2. Screen Recording
+#### 2. Screen Recording
 Record Your Screen Quickly
-##### 3. Screenshot
+#### 3. Screenshot
 capture your desktop screen with just one click
-##### 4. Set The Time You Want
+#### 4. Set The Time You Want
 set the recording time you want before recording starts
-##### 5. Realtime Recording
+#### 5. Realtime Recording
 the duration of the video results according to the recording duration
 
 ##### and much more
