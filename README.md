@@ -6,7 +6,8 @@ is The software that can help you record screen quickly
 
 
 
-# Feature
+# Feature![logo softwade](https://user-images.githubusercontent.com/87744449/126456909-6b4b0bff-9ea9-4d33-8438-3e3f32ed8de9.png)
+
 There Are Many Features That Can Help You Record Your Screen Quickly
 
 1. USER INTERFACE
