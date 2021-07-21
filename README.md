@@ -1,43 +1,48 @@
+
+
 # Quick Screen Record GitHub Official
-Repair and Where to Download "Quick Screen Record" Software
+#### Repair and Where to Download "Quick Screen Record" Software
 
-# Quick Screen Record
-is The software that can help you record screen quickly
+---
+
+## Quick Screen Record
+### _The software that can help you record screen quickly_
+
+[![N|Solid](https://user-images.githubusercontent.com/87744449/126456909-6b4b0bff-9ea9-4d33-8438-3e3f32ed8de9.png)](https://rstudioanimation.wixsite.com/rstuanim/quickscreenrecord)
+
+Quick Screen Record is The software that can help you record screen quickly.
 
 
+## Features
 
-# Feature![logo softwade](https://user-images.githubusercontent.com/87744449/126456909-6b4b0bff-9ea9-4d33-8438-3e3f32ed8de9.png)
+##### 1. User Interface
+Coming With Minimalist And Modern Ui
+##### 2. Screen Recording
+Record Your Screen Quickly
+##### 3. Screenshot
+capture your desktop screen with just one click
+##### 4. Set The Time You Want
+set the recording time you want before recording starts
+##### 5. Realtime Recording
+the duration of the video results according to the recording duration
 
-There Are Many Features That Can Help You Record Your Screen Quickly
+##### and much more
+[Download Now](#download) so you can feel the cool features
 
-1. USER INTERFACE
-   Coming With Minimalist And Modern Ui
-   
-   
-   <img width="200" alt="min" src="https://user-images.githubusercontent.com/87744449/126435965-237d6b60-2295-4a5a-897c-663006f969fc.PNG">
 
-2. SCREEN RECORDING
-   Record Your Screen Quickly
-   
-   
-   ![record](https://user-images.githubusercontent.com/87744449/126436227-daa02fa8-9c83-44a6-93b0-69e057e83d37.png)
+## Download
 
-3. SCREENSHOT 
-   capture your desktop screen with just one click
-   
-   
-   ![ss](https://user-images.githubusercontent.com/87744449/126436537-f908684b-0d82-4115-8a56-f98a70939067.png)
+Download Now For Windows 8 or 10
+Download on [Quick Screen Record GitHub Official](https://github.com/rstusoftdev/QSR/releases) (For Portable And Pre-Realease Version)
+or
+Download on [Official Quick Screen Record Website Page](https://rstudioanimation.wixsite.com/rstuanim/qsr-download) (For Installer And Portable Version)
 
-4. SET THE TIME YOU WANT 
-   set the recording time you want before recording starts
-   
-   
-5. REALTIME RECORDING
-   the duration of the video results according to the recording duration
-   
-   
-   
-   
-# Download
+## Support
+Want To Support us?
+Follow us and help us by giving an opinion about the shortcomings of this software or if you want, you can fix the error or lack of this software code
 
-Download Now For Windows on This GitHub QSR Official Page or on QSR Official Website (https://rstudioanimation.wixsite.com/rstuanim/qsr-download)
+
+## License
+
+this Software is Lisenced Under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
