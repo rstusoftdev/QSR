@@ -39,18 +39,18 @@ Download Now For Windows 8 or 10
 Download on [Quick Screen Record GitHub Official](https://github.com/rstusoftdev/QSR/releases) 
 
 
-(For Portable And Pre-Realease Version)
-
-
-
-or
 
 
 
 Download on [Official Quick Screen Record Website Page](https://rstudioanimation.wixsite.com/rstuanim/qsr-download) 
 
 
-(For Installer And Portable Version)
+
+
+
+Download on [Official R Stu Software Development Website](https://r-stu-software-development.github.io/Website-Pages/) 
+
+
 
 ## Support
 Want To Support us?
