@@ -6,49 +6,42 @@
 ---
 
 ## Quick Screen Record
-### _The software that can help you record screen quickly_
-
-[![N|Solid](https://user-images.githubusercontent.com/87744449/126456909-6b4b0bff-9ea9-4d33-8438-3e3f32ed8de9.png)](https://rstudioanimation.wixsite.com/rstuanim/quickscreenrecord)
 
 Quick Screen Record is The software that can help you record screen quickly.
 
 
 ## Features
 
-#### 1. User Interface
-Coming With Minimalist And Modern Ui
-#### 2. Screen Recording
-Record Your Screen Quickly
-#### 3. Screenshot
-capture your desktop screen with just one click
-#### 4. Set The Time You Want
-set the recording time you want before recording starts
-#### 5. Realtime Recording
-the duration of the video results according to the recording duration
+**1. User Interface**
+- Coming With Minimalist And Modern Ui
 
-##### and much more
+**2. Screen Recording**
+- Record Your Screen Quickly
+
+**3. Screenshot**
+- capture your desktop screen with just one click
+
+**4. Help Everywhere**
+- Help feature now in everywhere to help you
+
+**5. Realtime Recording**
+- the duration of the video results according to the recording duration
+
+**and much more**
 [Download Now](#download) so you can feel the cool features
 
 
 ## Download
 
-Download Now For Windows 8 or 10
+Download Now For Windows 8 or 10 
+(now can run on windows 7 too for 2.9 and above)
 
 
-
-Download on [Quick Screen Record GitHub Official](https://github.com/rstusoftdev/QSR/releases) 
-
-
-
-
-
-Download on [Official Quick Screen Record Website Page](https://rstudioanimation.wixsite.com/rstuanim/qsr-download) 
-
-
-
-
-
-Download on [Official R Stu Software Development Website](https://r-stu-software-development.github.io/Website-Pages/) 
+| File | Website |
+| ------ | ------ |
+| .exe - .zip - source code | [Quick Screen Record GitHub Official](https://github.com/rstusoftdev/QSR/releases) |
+| .exe - .zip - source code | [Official R Stu Software Development Website](https://r-stu-software-development.github.io/Website-Pages/)  |
+| .exe - .zip - archive | [Official Quick Screen Record Website Page](https://rstudioanimation.wixsite.com/rstuanim/qsr-download)  |
 
 
 
