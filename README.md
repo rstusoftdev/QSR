@@ -6,6 +6,7 @@
 ---
 
 ## Quick Screen Record
+[![Latest Stable Version](http://poser.pugx.org/phpunit/phpunit/v)](https://github.com/rstusoftdev/QSR/releases/tag/2.9.12)
 
 Quick Screen Record is The software that can help you record screen quickly.
 
