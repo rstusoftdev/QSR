@@ -34,7 +34,7 @@ Quick Screen Record is The software that can help you record screen quickly.
 ## Download
 
 Download Now For Windows 8 or 10 
-(now can run on windows 7 an 11 too for 2.9 and above)
+(now this software can run on windows 7 and 11 too for 2.9 and above)
 
 
 | File | Website |
