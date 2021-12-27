@@ -88,11 +88,11 @@ Download Now For Windows 8 or 10
 Follow Us On
 <p>  
 <a href="https://discord.io/RStuTeamServer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://twitter.com/radit_rstuanim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/therealrstu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://dribbble.com/R_Stu_Team"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
 <a href="https://github.com/rstusoftdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCFKHdP2BYzlEslkv4UPv-CQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://www.artstation.com/rstuanim"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=ArtStation&logoColor=white"/></a>
+<a href="https://www.artstation.com/therealrstu"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=ArtStation&logoColor=white"/></a>
 </p>
 <br>
   <br>
