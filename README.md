@@ -38,7 +38,7 @@ Quick Screen Record is The software that can help you record screen quickly.
 **and much more**
 [Download Now](#download) so you can feel the cool features
 
-## Requirement
+## Minimum Requirement
  
  - Operating system
    
@@ -87,7 +87,6 @@ Download Now For Windows 8 or 10
   
 Follow Us On
 <p>  
-<a href="https://discord.io/RStuTeamServer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://twitter.com/therealrstu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://dribbble.com/R_Stu_Team"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
 <a href="https://github.com/rstusoftdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -101,5 +100,5 @@ Follow Us On
 
 <img src="https://github.com/rstusoftdev/badge/blob/main/R%20STu%20Banner.svg" alt="banner" />
 
-©2021  R Stu Team │ All Right Reserved.
+©2021 - 2022 | R Stu Team
 
